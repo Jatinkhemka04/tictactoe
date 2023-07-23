@@ -1,0 +1,23 @@
+.block{
+  border: 2px solid;
+  height: 100px;
+  width : 100px;
+  cursor: pointer;
+  border-radius: 5px;
+  /* text-align: center; */
+  font-weight: bolder;
+  font-size: xx-large;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
+.board{
+  padding: 20px;
+  margin-left: 580px;
+  margin-top: 200px;
+}
+
+.row{
+  display: flex;
+}
